@@ -120,6 +120,15 @@ The datasets used in this work include
 - MPIIGaze
 - AFEW-VA
 
+## Running the Framework
+
+Start the multimodal data collection pipeline
+
+```bash
+
+python scripts/collect_multimodal_data.py
+
+```
 
 ## Experimental Dataset
 
@@ -136,7 +145,6 @@ The dataset contains identifiable participant information and educational materi
 
 Only anonymized experimental logs and the preprocessing framework are released.
 
----
 
 ## Reproducibility
 
